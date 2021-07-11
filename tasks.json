@@ -1,0 +1,5 @@
+[
+{"IdTask":44,"IdUser":1,"Name":"Ver una pelicula","Priority":"Baja","Description":"Ver una pelicula","CreateTask":"2021-03-04T18:37:20.907","Status":null,"Users":null},
+{"IdTask":45,"IdUser":1,"Name":"Cenar","Priority":"Alta","Description":"Arepa con queso","CreateTask":"2021-03-25T20:49:41.687","Status":null,"Users":null},
+{"IdTask":48,"IdUser":1,"Name":"Net core EF","Priority":"Alta","Description":"Aprender Net Core EF","CreateTask":"2021-03-03T18:20:41.09","Status":1,"Users":null}
+]
